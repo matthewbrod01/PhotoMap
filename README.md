@@ -9,9 +9,9 @@ This is an application that allows the user to search for locations using the [F
 - [X] User can drop a pin on the map with image annotation
     
 The following **stretch** stories have been implemented.
-- [] User can click on the annotation's information button to see a full size image
-- [] User can scroll around the full size image
-- [] User can see the pin replaced with an image
+- [ ] User can click on the annotation's information button to see a full size image
+- [ ] User can scroll around the full size image
+- [ ] User can see the pin replaced with an image
     
 ## Walkthrough
     
